@@ -4,11 +4,7 @@ using namespace std;
 #include <vector>
 #include <cctype>
 
-/****************************
- *
- * HEADER
- *
- * *** **********************/
+
 
 
 const string rule_msg_1 = "The selected password must be at least eight characters long.";
